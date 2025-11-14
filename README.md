@@ -1,5 +1,5 @@
 # QFL
-QFL (Quest-Frame Liberator) allows you to sync games installed on your Meta Quest to the new and upcoming Steam Frame headset.
+QFL (Quest-Frame Liberator) allows you to sync games from your Quest Library to the new and upcoming Steam Frame headset.
 
 # Theory
 
